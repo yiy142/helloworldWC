@@ -318,5 +318,4 @@ const jjSlider =
 
       customElements.define('jj-slider', JJSlider);
     }
-
 jjSlider();
